@@ -30,3 +30,4 @@ function sayHi(name){
 }
 let value = sayHi("steve");
 console.log(value);
+
