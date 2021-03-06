@@ -67,3 +67,4 @@ console.log(value[3][5]);
 for(let key in data){
     console.log(key);
 }
+
