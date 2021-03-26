@@ -36,6 +36,7 @@ function checkFolder(currentExtension){
         if(extensions[key].includes(currentExtension)){
             
             currentExtpath = `${FolderPath}/${key}`;
+            //String --> /Download/audio
             break;
         }
     }
@@ -49,7 +50,10 @@ function createFolder(){
 }
 
 function moveFile(filename){
+    
+    //sc --> downloads/abc.mp3 
     let sourceFilePath = `${FolderPath}/${filename}`;
+    //dc --> download/audio/abc.mp3
     let destinationFilePath = `${currentExtpath}/${filename}`;
 
     //1.COPY
