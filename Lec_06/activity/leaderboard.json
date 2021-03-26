@@ -1,0 +1,6042 @@
+[
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "KL Rahul (c)†",
+        "Runs": 1929,
+        "Balls": 1472,
+        "Fours": 164,
+        "Sixes": 80
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Rohit Sharma (c)",
+        "Runs": 623,
+        "Balls": 492,
+        "Fours": 52,
+        "Sixes": 34
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Quinton de Kock †",
+        "Runs": 916,
+        "Balls": 662,
+        "Fours": 85,
+        "Sixes": 39
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Suryakumar Yadav",
+        "Runs": 854,
+        "Balls": 597,
+        "Fours": 105,
+        "Sixes": 20
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Ishan Kishan",
+        "Runs": 1001,
+        "Balls": 684,
+        "Fours": 71,
+        "Sixes": 58
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Krunal Pandya",
+        "Runs": 186,
+        "Balls": 163,
+        "Fours": 16,
+        "Sixes": 7
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Saurabh Tiwary",
+        "Runs": 206,
+        "Balls": 160,
+        "Fours": 16,
+        "Sixes": 6
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Kieron Pollard",
+        "Runs": 491,
+        "Balls": 257,
+        "Fours": 28,
+        "Sixes": 39
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Nathan Coulter-Nile",
+        "Runs": 50,
+        "Balls": 30,
+        "Fours": 8,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "James Pattinson",
+        "Runs": 30,
+        "Balls": 26,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Dhawal Kulkarni",
+        "Runs": 6,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Extras",
+        "Runs": 202,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "David Warner (c)",
+        "Runs": 230,
+        "Balls": 160,
+        "Fours": 25,
+        "Sixes": 4
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Wriddhiman Saha †",
+        "Runs": 116,
+        "Balls": 90,
+        "Fours": 14,
+        "Sixes": 2
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Rohit Sharma (c)",
+        "Runs": 14,
+        "Balls": 19,
+        "Fours": 0,
+        "Sixes": 1
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Quinton de Kock †",
+        "Runs": 117,
+        "Balls": 65,
+        "Fours": 8,
+        "Sixes": 8
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Suryakumar Yadav",
+        "Runs": 99,
+        "Balls": 76,
+        "Fours": 16,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Ishan Kishan",
+        "Runs": 97,
+        "Balls": 83,
+        "Fours": 3,
+        "Sixes": 6
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Krunal Pandya",
+        "Runs": 20,
+        "Balls": 10,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Saurabh Tiwary",
+        "Runs": 2,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Kieron Pollard",
+        "Runs": 107,
+        "Balls": 63,
+        "Fours": 4,
+        "Sixes": 11
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Nathan Coulter-Nile",
+        "Runs": 2,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "James Pattinson",
+        "Runs": 8,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Dhawal Kulkarni",
+        "Runs": 6,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Extras",
+        "Runs": 162,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "David Warner (c)",
+        "Runs": 878,
+        "Balls": 649,
+        "Fours": 84,
+        "Sixes": 21
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Wriddhiman Saha †",
+        "Runs": 428,
+        "Balls": 306,
+        "Fours": 48,
+        "Sixes": 10
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Marcus Stoinis",
+        "Runs": 622,
+        "Balls": 421,
+        "Fours": 55,
+        "Sixes": 29
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Shikhar Dhawan",
+        "Runs": 1067,
+        "Balls": 736,
+        "Fours": 117,
+        "Sixes": 20
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Shreyas Iyer (c)",
+        "Runs": 879,
+        "Balls": 739,
+        "Fours": 69,
+        "Sixes": 24
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Shimron Hetmyer",
+        "Runs": 352,
+        "Balls": 238,
+        "Fours": 22,
+        "Sixes": 22
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Rishabh Pant †",
+        "Runs": 603,
+        "Balls": 553,
+        "Fours": 53,
+        "Sixes": 15
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Extras",
+        "Runs": 206,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Priyam Garg",
+        "Runs": 34,
+        "Balls": 24,
+        "Fours": 0,
+        "Sixes": 4
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "David Warner (c)",
+        "Runs": 226,
+        "Balls": 140,
+        "Fours": 22,
+        "Sixes": 8
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Manish Pandey",
+        "Runs": 136,
+        "Balls": 100,
+        "Fours": 14,
+        "Sixes": 2
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Kane Williamson",
+        "Runs": 238,
+        "Balls": 162,
+        "Fours": 22,
+        "Sixes": 8
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Jason Holder",
+        "Runs": 22,
+        "Balls": 30,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Abdul Samad",
+        "Runs": 90,
+        "Balls": 46,
+        "Fours": 6,
+        "Sixes": 6
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Rashid Khan",
+        "Runs": 22,
+        "Balls": 14,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Shreevats Goswami †",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Shahbaz Nadeem",
+        "Runs": 4,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Sandeep Sharma",
+        "Runs": 4,
+        "Balls": 8,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Marcus Stoinis",
+        "Runs": 108,
+        "Balls": 84,
+        "Fours": 14,
+        "Sixes": 2
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Shikhar Dhawan",
+        "Runs": 224,
+        "Balls": 164,
+        "Fours": 20,
+        "Sixes": 4
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Shreyas Iyer (c)",
+        "Runs": 90,
+        "Balls": 106,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Shimron Hetmyer",
+        "Runs": 158,
+        "Balls": 94,
+        "Fours": 14,
+        "Sixes": 6
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Rishabh Pant †",
+        "Runs": 132,
+        "Balls": 130,
+        "Fours": 8,
+        "Sixes": 6
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Priyam Garg",
+        "Runs": 221,
+        "Balls": 174,
+        "Fours": 16,
+        "Sixes": 7
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Manish Pandey",
+        "Runs": 692,
+        "Balls": 518,
+        "Fours": 58,
+        "Sixes": 30
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Kane Williamson",
+        "Runs": 539,
+        "Balls": 403,
+        "Fours": 49,
+        "Sixes": 15
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Jason Holder",
+        "Runs": 103,
+        "Balls": 78,
+        "Fours": 7,
+        "Sixes": 6
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Abdul Samad",
+        "Runs": 187,
+        "Balls": 109,
+        "Fours": 13,
+        "Sixes": 10
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Rashid Khan",
+        "Runs": 61,
+        "Balls": 47,
+        "Fours": 5,
+        "Sixes": 4
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Shreevats Goswami †",
+        "Runs": 0,
+        "Balls": 5,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Shahbaz Nadeem",
+        "Runs": 14,
+        "Balls": 16,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Sandeep Sharma",
+        "Runs": 15,
+        "Balls": 21,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Ajinkya Rahane",
+        "Runs": 164,
+        "Balls": 159,
+        "Fours": 19,
+        "Sixes": 3
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Axar Patel",
+        "Runs": 227,
+        "Balls": 166,
+        "Fours": 11,
+        "Sixes": 16
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Kagiso Rabada",
+        "Runs": 112,
+        "Balls": 98,
+        "Fours": 8,
+        "Sixes": 4
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Rohit Sharma (c)",
+        "Runs": 146,
+        "Balls": 128,
+        "Fours": 10,
+        "Sixes": 8
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Quinton de Kock †",
+        "Runs": 278,
+        "Balls": 202,
+        "Fours": 28,
+        "Sixes": 10
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Suryakumar Yadav",
+        "Runs": 270,
+        "Balls": 202,
+        "Fours": 28,
+        "Sixes": 8
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Ishan Kishan",
+        "Runs": 376,
+        "Balls": 222,
+        "Fours": 34,
+        "Sixes": 18
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Kieron Pollard",
+        "Runs": 40,
+        "Balls": 40,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Hardik Pandya",
+        "Runs": 80,
+        "Balls": 42,
+        "Fours": 0,
+        "Sixes": 10
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Krunal Pandya",
+        "Runs": 52,
+        "Balls": 36,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Marcus Stoinis",
+        "Runs": 160,
+        "Balls": 116,
+        "Fours": 16,
+        "Sixes": 6
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Shikhar Dhawan",
+        "Runs": 168,
+        "Balls": 138,
+        "Fours": 18,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Ajinkya Rahane",
+        "Runs": 34,
+        "Balls": 44,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Shreyas Iyer (c)",
+        "Runs": 288,
+        "Balls": 240,
+        "Fours": 30,
+        "Sixes": 6
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Rishabh Pant †",
+        "Runs": 160,
+        "Balls": 142,
+        "Fours": 12,
+        "Sixes": 4
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Shimron Hetmyer",
+        "Runs": 32,
+        "Balls": 36,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Axar Patel",
+        "Runs": 102,
+        "Balls": 84,
+        "Fours": 6,
+        "Sixes": 6
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Kagiso Rabada",
+        "Runs": 54,
+        "Balls": 44,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Hardik Pandya",
+        "Runs": 504,
+        "Balls": 276,
+        "Fours": 24,
+        "Sixes": 47
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Kieron Pollard (c)",
+        "Runs": 20,
+        "Balls": 10,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Robin Uthappa",
+        "Runs": 26,
+        "Balls": 22,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Ben Stokes",
+        "Runs": 214,
+        "Balls": 120,
+        "Fours": 28,
+        "Sixes": 6
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Steven Smith (c)",
+        "Runs": 28,
+        "Balls": 23,
+        "Fours": 3,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Sanju Samson †",
+        "Runs": 108,
+        "Balls": 62,
+        "Fours": 8,
+        "Sixes": 6
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Ishan Kishan",
+        "Runs": 74,
+        "Balls": 73,
+        "Fours": 8,
+        "Sixes": 2
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Quinton de Kock †",
+        "Runs": 35,
+        "Balls": 23,
+        "Fours": 3,
+        "Sixes": 3
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Suryakumar Yadav",
+        "Runs": 159,
+        "Balls": 99,
+        "Fours": 19,
+        "Sixes": 4
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Saurabh Tiwary",
+        "Runs": 68,
+        "Balls": 50,
+        "Fours": 8,
+        "Sixes": 2
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Kieron Pollard (c)",
+        "Runs": 12,
+        "Balls": 8,
+        "Fours": 0,
+        "Sixes": 2
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Hardik Pandya",
+        "Runs": 150,
+        "Balls": 61,
+        "Fours": 6,
+        "Sixes": 15
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Krunal Pandya",
+        "Runs": 18,
+        "Balls": 25,
+        "Fours": 0,
+        "Sixes": 1
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Extras",
+        "Runs": 181,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Robin Uthappa",
+        "Runs": 294,
+        "Balls": 248,
+        "Fours": 27,
+        "Sixes": 11
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Ben Stokes",
+        "Runs": 509,
+        "Balls": 340,
+        "Fours": 63,
+        "Sixes": 14
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Steven Smith (c)",
+        "Runs": 481,
+        "Balls": 367,
+        "Fours": 53,
+        "Sixes": 13
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Sanju Samson †",
+        "Runs": 361,
+        "Balls": 216,
+        "Fours": 23,
+        "Sixes": 24
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Mayank Agarwal",
+        "Runs": 787,
+        "Balls": 497,
+        "Fours": 80,
+        "Sixes": 30
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Chris Gayle",
+        "Runs": 556,
+        "Balls": 400,
+        "Fours": 28,
+        "Sixes": 45
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Nicholas Pooran",
+        "Runs": 514,
+        "Balls": 299,
+        "Fours": 36,
+        "Sixes": 37
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Mandeep Singh",
+        "Runs": 210,
+        "Balls": 182,
+        "Fours": 19,
+        "Sixes": 6
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Deepak Hooda",
+        "Runs": 202,
+        "Balls": 140,
+        "Fours": 10,
+        "Sixes": 10
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "James Neesham",
+        "Runs": 38,
+        "Balls": 36,
+        "Fours": 0,
+        "Sixes": 2
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Chris Jordan",
+        "Runs": 51,
+        "Balls": 50,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Extras",
+        "Runs": 185,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Ruturaj Gaikwad",
+        "Runs": 124,
+        "Balls": 98,
+        "Fours": 12,
+        "Sixes": 2
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Faf du Plessis",
+        "Runs": 183,
+        "Balls": 121,
+        "Fours": 19,
+        "Sixes": 5
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Ambati Rayudu",
+        "Runs": 60,
+        "Balls": 60,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "KL Rahul (c)†",
+        "Runs": 58,
+        "Balls": 54,
+        "Fours": 6,
+        "Sixes": 2
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Mayank Agarwal",
+        "Runs": 78,
+        "Balls": 49,
+        "Fours": 13,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Chris Gayle",
+        "Runs": 24,
+        "Balls": 38,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Nicholas Pooran",
+        "Runs": 4,
+        "Balls": 12,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Mandeep Singh",
+        "Runs": 55,
+        "Balls": 46,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Deepak Hooda",
+        "Runs": 124,
+        "Balls": 60,
+        "Fours": 6,
+        "Sixes": 8
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "James Neesham",
+        "Runs": 4,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Chris Jordan",
+        "Runs": 8,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Extras",
+        "Runs": 167,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Ruturaj Gaikwad",
+        "Runs": 408,
+        "Balls": 337,
+        "Fours": 32,
+        "Sixes": 12
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Faf du Plessis",
+        "Runs": 722,
+        "Balls": 538,
+        "Fours": 69,
+        "Sixes": 20
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Ambati Rayudu",
+        "Runs": 688,
+        "Balls": 537,
+        "Fours": 57,
+        "Sixes": 24
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Josh Philippe",
+        "Runs": 142,
+        "Balls": 127,
+        "Fours": 17,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Devdutt Padikkal",
+        "Runs": 799,
+        "Balls": 624,
+        "Fours": 87,
+        "Sixes": 16
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Virat Kohli (c)",
+        "Runs": 796,
+        "Balls": 648,
+        "Fours": 41,
+        "Sixes": 18
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "AB de Villiers †",
+        "Runs": 595,
+        "Balls": 384,
+        "Fours": 41,
+        "Sixes": 32
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Washington Sundar",
+        "Runs": 170,
+        "Balls": 145,
+        "Fours": 15,
+        "Sixes": 3
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Gurkeerat Singh Mann",
+        "Runs": 123,
+        "Balls": 143,
+        "Fours": 15,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Chris Morris",
+        "Runs": 68,
+        "Balls": 40,
+        "Fours": 4,
+        "Sixes": 6
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Isuru Udana",
+        "Runs": 25,
+        "Balls": 17,
+        "Fours": 1,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Mohammed Siraj",
+        "Runs": 19,
+        "Balls": 17,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Extras",
+        "Runs": 188,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "David Warner (c)",
+        "Runs": 39,
+        "Balls": 33,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Wriddhiman Saha †",
+        "Runs": 78,
+        "Balls": 64,
+        "Fours": 8,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Manish Pandey",
+        "Runs": 110,
+        "Balls": 92,
+        "Fours": 12,
+        "Sixes": 4
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Kane Williamson",
+        "Runs": 66,
+        "Balls": 72,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Abhishek Sharma",
+        "Runs": 23,
+        "Balls": 14,
+        "Fours": 1,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Jason Holder",
+        "Runs": 76,
+        "Balls": 40,
+        "Fours": 5,
+        "Sixes": 6
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Abdul Samad",
+        "Runs": 0,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Josh Philippe",
+        "Runs": 64,
+        "Balls": 62,
+        "Fours": 8,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Devdutt Padikkal",
+        "Runs": 67,
+        "Balls": 64,
+        "Fours": 10,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Virat Kohli (c)",
+        "Runs": 34,
+        "Balls": 34,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "AB de Villiers †",
+        "Runs": 104,
+        "Balls": 91,
+        "Fours": 7,
+        "Sixes": 2
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Washington Sundar",
+        "Runs": 47,
+        "Balls": 42,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Gurkeerat Singh Mann",
+        "Runs": 30,
+        "Balls": 48,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Chris Morris",
+        "Runs": 6,
+        "Balls": 8,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Isuru Udana",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Mohammed Siraj",
+        "Runs": 14,
+        "Balls": 13,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Abhishek Sharma",
+        "Runs": 113,
+        "Balls": 89,
+        "Fours": 10,
+        "Sixes": 5
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Shubman Gill",
+        "Runs": 794,
+        "Balls": 678,
+        "Fours": 80,
+        "Sixes": 16
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Nitish Rana",
+        "Runs": 615,
+        "Balls": 446,
+        "Fours": 79,
+        "Sixes": 19
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Rahul Tripathi",
+        "Runs": 343,
+        "Balls": 295,
+        "Fours": 31,
+        "Sixes": 14
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Dinesh Karthik †",
+        "Runs": 122,
+        "Balls": 110,
+        "Fours": 12,
+        "Sixes": 4
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Eoin Morgan (c)",
+        "Runs": 486,
+        "Balls": 334,
+        "Fours": 44,
+        "Sixes": 26
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Sunil Narine",
+        "Runs": 207,
+        "Balls": 142,
+        "Fours": 17,
+        "Sixes": 14
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Kamlesh Nagarkoti",
+        "Runs": 33,
+        "Balls": 52,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Pat Cummins",
+        "Runs": 258,
+        "Balls": 205,
+        "Fours": 15,
+        "Sixes": 15
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Lockie Ferguson",
+        "Runs": 86,
+        "Balls": 58,
+        "Fours": 8,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Varun Chakravarthy",
+        "Runs": 19,
+        "Balls": 29,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Prasidh Krishna",
+        "Runs": 4,
+        "Balls": 8,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Extras",
+        "Runs": 171,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "KL Rahul (c)†",
+        "Runs": 56,
+        "Balls": 50,
+        "Fours": 8,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Mandeep Singh",
+        "Runs": 132,
+        "Balls": 114,
+        "Fours": 16,
+        "Sixes": 4
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Chris Gayle",
+        "Runs": 102,
+        "Balls": 58,
+        "Fours": 4,
+        "Sixes": 10
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Nicholas Pooran",
+        "Runs": 36,
+        "Balls": 26,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Shubman Gill",
+        "Runs": 228,
+        "Balls": 184,
+        "Fours": 16,
+        "Sixes": 8
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Nitish Rana",
+        "Runs": 4,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Rahul Tripathi",
+        "Runs": 22,
+        "Balls": 28,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Dinesh Karthik †",
+        "Runs": 0,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Eoin Morgan (c)",
+        "Runs": 80,
+        "Balls": 50,
+        "Fours": 10,
+        "Sixes": 4
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Sunil Narine",
+        "Runs": 12,
+        "Balls": 8,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Kamlesh Nagarkoti",
+        "Runs": 12,
+        "Balls": 26,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Pat Cummins",
+        "Runs": 12,
+        "Balls": 24,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Lockie Ferguson",
+        "Runs": 48,
+        "Balls": 26,
+        "Fours": 6,
+        "Sixes": 2
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Varun Chakravarthy",
+        "Runs": 4,
+        "Balls": 8,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Prasidh Krishna",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Prithvi Shaw",
+        "Runs": 28,
+        "Balls": 32,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Daniel Sams",
+        "Runs": 0,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Anrich Nortje",
+        "Runs": 0,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Prithvi Shaw",
+        "Runs": 339,
+        "Balls": 263,
+        "Fours": 43,
+        "Sixes": 10
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Daniel Sams",
+        "Runs": 0,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Anrich Nortje",
+        "Runs": 14,
+        "Balls": 12,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Shivam Dube",
+        "Runs": 203,
+        "Balls": 154,
+        "Fours": 8,
+        "Sixes": 15
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Shahbaz Ahmed",
+        "Runs": 1,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Prithvi Shaw",
+        "Runs": 51,
+        "Balls": 29,
+        "Fours": 7,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Shikhar Dhawan",
+        "Runs": 86,
+        "Balls": 69,
+        "Fours": 9,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Ajinkya Rahane",
+        "Runs": 60,
+        "Balls": 46,
+        "Fours": 5,
+        "Sixes": 1
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Shreyas Iyer (c)",
+        "Runs": 18,
+        "Balls": 22,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Rishabh Pant †",
+        "Runs": 45,
+        "Balls": 32,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Marcus Stoinis",
+        "Runs": 63,
+        "Balls": 31,
+        "Fours": 6,
+        "Sixes": 3
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Josh Philippe",
+        "Runs": 12,
+        "Balls": 17,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Devdutt Padikkal",
+        "Runs": 54,
+        "Balls": 47,
+        "Fours": 5,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Virat Kohli (c)",
+        "Runs": 72,
+        "Balls": 63,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "AB de Villiers †",
+        "Runs": 44,
+        "Balls": 27,
+        "Fours": 3,
+        "Sixes": 2
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Chris Morris",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Shivam Dube",
+        "Runs": 28,
+        "Balls": 23,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Washington Sundar",
+        "Runs": 17,
+        "Balls": 12,
+        "Fours": 3,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Isuru Udana",
+        "Runs": 5,
+        "Balls": 5,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Shahbaz Ahmed",
+        "Runs": 1,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Narayan Jagadeesan",
+        "Runs": 66,
+        "Balls": 58,
+        "Fours": 8,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "MS Dhoni (c)†",
+        "Runs": 360,
+        "Balls": 315,
+        "Fours": 31,
+        "Sixes": 11
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Ravindra Jadeja",
+        "Runs": 442,
+        "Balls": 260,
+        "Fours": 41,
+        "Sixes": 21
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Sam Curran",
+        "Runs": 338,
+        "Balls": 265,
+        "Fours": 22,
+        "Sixes": 21
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Deepak Chahar",
+        "Runs": 14,
+        "Balls": 24,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Shardul Thakur",
+        "Runs": 24,
+        "Balls": 42,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Imran Tahir",
+        "Runs": 26,
+        "Balls": 20,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Quinton de Kock †",
+        "Runs": 158,
+        "Balls": 114,
+        "Fours": 20,
+        "Sixes": 4
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Ishan Kishan",
+        "Runs": 136,
+        "Balls": 74,
+        "Fours": 12,
+        "Sixes": 10
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Ruturaj Gaikwad",
+        "Runs": 0,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Faf du Plessis",
+        "Runs": 118,
+        "Balls": 102,
+        "Fours": 12,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Ambati Rayudu",
+        "Runs": 146,
+        "Balls": 102,
+        "Fours": 12,
+        "Sixes": 6
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Narayan Jagadeesan",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "MS Dhoni (c)†",
+        "Runs": 32,
+        "Balls": 36,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Ravindra Jadeja",
+        "Runs": 34,
+        "Balls": 22,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Sam Curran",
+        "Runs": 140,
+        "Balls": 106,
+        "Fours": 10,
+        "Sixes": 8
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Deepak Chahar",
+        "Runs": 0,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Shardul Thakur",
+        "Runs": 22,
+        "Balls": 40,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Imran Tahir",
+        "Runs": 26,
+        "Balls": 20,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Aaron Finch",
+        "Runs": 428,
+        "Balls": 379,
+        "Fours": 48,
+        "Sixes": 11
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Moeen Ali",
+        "Runs": 13,
+        "Balls": 18,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Navdeep Saini",
+        "Runs": 27,
+        "Balls": 27,
+        "Fours": 3,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Shreevats Goswami †",
+        "Runs": 0,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Priyam Garg",
+        "Runs": 19,
+        "Balls": 27,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Aaron Finch",
+        "Runs": 61,
+        "Balls": 57,
+        "Fours": 4,
+        "Sixes": 3
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Moeen Ali",
+        "Runs": 0,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Shivam Dube",
+        "Runs": 15,
+        "Balls": 21,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Navdeep Saini",
+        "Runs": 9,
+        "Balls": 8,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Harshal Patel",
+        "Runs": 42,
+        "Balls": 48,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Ravichandran Ashwin",
+        "Runs": 74,
+        "Balls": 68,
+        "Fours": 6,
+        "Sixes": 2
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Praveen Dubey",
+        "Runs": 14,
+        "Balls": 26,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Harshal Patel",
+        "Runs": 10,
+        "Balls": 18,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Ravichandran Ashwin",
+        "Runs": 24,
+        "Balls": 18,
+        "Fours": 0,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Praveen Dubey",
+        "Runs": 14,
+        "Balls": 26,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Andre Russell",
+        "Runs": 195,
+        "Balls": 136,
+        "Fours": 17,
+        "Sixes": 14
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Rohit Sharma (c)",
+        "Runs": 230,
+        "Balls": 180,
+        "Fours": 16,
+        "Sixes": 14
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Quinton de Kock †",
+        "Runs": 158,
+        "Balls": 94,
+        "Fours": 18,
+        "Sixes": 6
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Suryakumar Yadav",
+        "Runs": 114,
+        "Balls": 76,
+        "Fours": 14,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Hardik Pandya",
+        "Runs": 78,
+        "Balls": 48,
+        "Fours": 10,
+        "Sixes": 4
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Rahul Tripathi",
+        "Runs": 14,
+        "Balls": 18,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Shubman Gill",
+        "Runs": 56,
+        "Balls": 68,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Nitish Rana",
+        "Runs": 58,
+        "Balls": 48,
+        "Fours": 6,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Dinesh Karthik †",
+        "Runs": 8,
+        "Balls": 16,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Eoin Morgan (c)",
+        "Runs": 78,
+        "Balls": 58,
+        "Fours": 4,
+        "Sixes": 4
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Andre Russell",
+        "Runs": 46,
+        "Balls": 40,
+        "Fours": 6,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Pat Cummins",
+        "Runs": 172,
+        "Balls": 96,
+        "Fours": 12,
+        "Sixes": 12
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Quinton de Kock †",
+        "Runs": 64,
+        "Balls": 68,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Ishan Kishan",
+        "Runs": 248,
+        "Balls": 154,
+        "Fours": 10,
+        "Sixes": 20
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Suryakumar Yadav",
+        "Runs": 158,
+        "Balls": 90,
+        "Fours": 20,
+        "Sixes": 6
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Saurabh Tiwary",
+        "Runs": 10,
+        "Balls": 16,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Krunal Pandya",
+        "Runs": 20,
+        "Balls": 20,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Hardik Pandya",
+        "Runs": 64,
+        "Balls": 56,
+        "Fours": 0,
+        "Sixes": 6
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Kieron Pollard (c)",
+        "Runs": 8,
+        "Balls": 2,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Josh Philippe",
+        "Runs": 66,
+        "Balls": 48,
+        "Fours": 8,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Devdutt Padikkal",
+        "Runs": 256,
+        "Balls": 170,
+        "Fours": 34,
+        "Sixes": 6
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Virat Kohli (c)",
+        "Runs": 24,
+        "Balls": 50,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "AB de Villiers †",
+        "Runs": 140,
+        "Balls": 72,
+        "Fours": 10,
+        "Sixes": 10
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Shivam Dube",
+        "Runs": 58,
+        "Balls": 32,
+        "Fours": 2,
+        "Sixes": 6
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Chris Morris",
+        "Runs": 8,
+        "Balls": 4,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Gurkeerat Singh Mann",
+        "Runs": 28,
+        "Balls": 22,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Washington Sundar",
+        "Runs": 20,
+        "Balls": 12,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Rinku Singh",
+        "Runs": 22,
+        "Balls": 22,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Shane Watson",
+        "Runs": 78,
+        "Balls": 78,
+        "Fours": 8,
+        "Sixes": 3
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Ruturaj Gaikwad",
+        "Runs": 144,
+        "Balls": 106,
+        "Fours": 12,
+        "Sixes": 4
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Ambati Rayudu",
+        "Runs": 106,
+        "Balls": 67,
+        "Fours": 13,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "MS Dhoni (c)†",
+        "Runs": 13,
+        "Balls": 20,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Sam Curran",
+        "Runs": 43,
+        "Balls": 39,
+        "Fours": 3,
+        "Sixes": 1
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Ravindra Jadeja",
+        "Runs": 83,
+        "Balls": 30,
+        "Fours": 7,
+        "Sixes": 7
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Shubman Gill",
+        "Runs": 63,
+        "Balls": 46,
+        "Fours": 9,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Nitish Rana",
+        "Runs": 183,
+        "Balls": 132,
+        "Fours": 21,
+        "Sixes": 8
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Sunil Narine",
+        "Runs": 31,
+        "Balls": 23,
+        "Fours": 1,
+        "Sixes": 3
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Rinku Singh",
+        "Runs": 22,
+        "Balls": 22,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Eoin Morgan (c)",
+        "Runs": 30,
+        "Balls": 24,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Dinesh Karthik †",
+        "Runs": 42,
+        "Balls": 20,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Rahul Tripathi",
+        "Runs": 87,
+        "Balls": 55,
+        "Fours": 8,
+        "Sixes": 3
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Shane Watson",
+        "Runs": 432,
+        "Balls": 380,
+        "Fours": 48,
+        "Sixes": 18
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Shane Watson",
+        "Runs": 28,
+        "Balls": 36,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Faf du Plessis",
+        "Runs": 66,
+        "Balls": 46,
+        "Fours": 4,
+        "Sixes": 4
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Ambati Rayudu",
+        "Runs": 162,
+        "Balls": 134,
+        "Fours": 14,
+        "Sixes": 4
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Narayan Jagadeesan",
+        "Runs": 66,
+        "Balls": 56,
+        "Fours": 8,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "MS Dhoni (c)†",
+        "Runs": 58,
+        "Balls": 54,
+        "Fours": 6,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Sam Curran",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Ravindra Jadeja",
+        "Runs": 14,
+        "Balls": 12,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Dwayne Bravo",
+        "Runs": 14,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Deepak Chahar",
+        "Runs": 10,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Shardul Thakur",
+        "Runs": 2,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Devdutt Padikkal",
+        "Runs": 110,
+        "Balls": 110,
+        "Fours": 8,
+        "Sixes": 4
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Aaron Finch",
+        "Runs": 34,
+        "Balls": 40,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Virat Kohli (c)",
+        "Runs": 280,
+        "Balls": 190,
+        "Fours": 10,
+        "Sixes": 10
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "AB de Villiers †",
+        "Runs": 78,
+        "Balls": 76,
+        "Fours": 8,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Washington Sundar",
+        "Runs": 30,
+        "Balls": 24,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Shivam Dube",
+        "Runs": 44,
+        "Balls": 28,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Dwayne Bravo",
+        "Runs": 14,
+        "Balls": 12,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "KL Rahul (c)†",
+        "Runs": 254,
+        "Balls": 167,
+        "Fours": 16,
+        "Sixes": 17
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Mayank Agarwal",
+        "Runs": 116,
+        "Balls": 70,
+        "Fours": 12,
+        "Sixes": 6
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Chris Gayle",
+        "Runs": 106,
+        "Balls": 90,
+        "Fours": 2,
+        "Sixes": 10
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Nicholas Pooran",
+        "Runs": 29,
+        "Balls": 20,
+        "Fours": 1,
+        "Sixes": 2
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Aaron Finch",
+        "Runs": 60,
+        "Balls": 57,
+        "Fours": 7,
+        "Sixes": 2
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Devdutt Padikkal",
+        "Runs": 37,
+        "Balls": 26,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Virat Kohli (c)",
+        "Runs": 97,
+        "Balls": 83,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Washington Sundar",
+        "Runs": 56,
+        "Balls": 55,
+        "Fours": 4,
+        "Sixes": 1
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Shivam Dube",
+        "Runs": 58,
+        "Balls": 50,
+        "Fours": 0,
+        "Sixes": 5
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "AB de Villiers †",
+        "Runs": 4,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Chris Morris",
+        "Runs": 50,
+        "Balls": 16,
+        "Fours": 2,
+        "Sixes": 6
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Isuru Udana",
+        "Runs": 20,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Eoin Morgan",
+        "Runs": 265,
+        "Balls": 219,
+        "Fours": 17,
+        "Sixes": 15
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Dinesh Karthik (c)†",
+        "Runs": 197,
+        "Balls": 136,
+        "Fours": 27,
+        "Sixes": 4
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "KL Rahul (c)",
+        "Runs": 148,
+        "Balls": 116,
+        "Fours": 12,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Mayank Agarwal",
+        "Runs": 112,
+        "Balls": 78,
+        "Fours": 12,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Prabhsimran Singh †",
+        "Runs": 8,
+        "Balls": 14,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Glenn Maxwell",
+        "Runs": 20,
+        "Balls": 10,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Chris Jordan",
+        "Runs": 0,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Eoin Morgan",
+        "Runs": 48,
+        "Balls": 46,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Dinesh Karthik (c)†",
+        "Runs": 116,
+        "Balls": 58,
+        "Fours": 16,
+        "Sixes": 4
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Andre Russell",
+        "Runs": 10,
+        "Balls": 6,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "KL Rahul (c)",
+        "Runs": 222,
+        "Balls": 184,
+        "Fours": 19,
+        "Sixes": 1
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Prabhsimran Singh †",
+        "Runs": 19,
+        "Balls": 22,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Glenn Maxwell",
+        "Runs": 181,
+        "Balls": 174,
+        "Fours": 17,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Jonny Bairstow",
+        "Runs": 10,
+        "Balls": 20,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Mohammad Nabi",
+        "Runs": 22,
+        "Balls": 16,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Shubman Gill",
+        "Runs": 212,
+        "Balls": 198,
+        "Fours": 20,
+        "Sixes": 4
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Sunil Narine",
+        "Runs": 0,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Nitish Rana",
+        "Runs": 110,
+        "Balls": 66,
+        "Fours": 18,
+        "Sixes": 2
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Dinesh Karthik (c)†",
+        "Runs": 0,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Eoin Morgan",
+        "Runs": 84,
+        "Balls": 58,
+        "Fours": 6,
+        "Sixes": 4
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "David Warner (c)",
+        "Runs": 166,
+        "Balls": 126,
+        "Fours": 14,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Jonny Bairstow",
+        "Runs": 10,
+        "Balls": 20,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Manish Pandey",
+        "Runs": 114,
+        "Balls": 90,
+        "Fours": 6,
+        "Sixes": 4
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Wriddhiman Saha †",
+        "Runs": 60,
+        "Balls": 62,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Mohammad Nabi",
+        "Runs": 22,
+        "Balls": 16,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Abhishek Sharma",
+        "Runs": 4,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Robin Uthappa",
+        "Runs": 78,
+        "Balls": 54,
+        "Fours": 6,
+        "Sixes": 4
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Ben Stokes",
+        "Runs": 100,
+        "Balls": 52,
+        "Fours": 12,
+        "Sixes": 6
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Sanju Samson †",
+        "Runs": 96,
+        "Balls": 50,
+        "Fours": 8,
+        "Sixes": 6
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Steven Smith (c)",
+        "Runs": 162,
+        "Balls": 94,
+        "Fours": 24,
+        "Sixes": 4
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Jos Buttler",
+        "Runs": 44,
+        "Balls": 22,
+        "Fours": 2,
+        "Sixes": 4
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "KL Rahul (c)†",
+        "Runs": 230,
+        "Balls": 190,
+        "Fours": 20,
+        "Sixes": 6
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Mandeep Singh",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Chris Gayle",
+        "Runs": 198,
+        "Balls": 126,
+        "Fours": 12,
+        "Sixes": 16
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Nicholas Pooran",
+        "Runs": 94,
+        "Balls": 36,
+        "Fours": 2,
+        "Sixes": 12
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Glenn Maxwell",
+        "Runs": 38,
+        "Balls": 30,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Deepak Hooda",
+        "Runs": 2,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Jos Buttler",
+        "Runs": 296,
+        "Balls": 211,
+        "Fours": 25,
+        "Sixes": 11
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Ruturaj Gaikwad",
+        "Runs": 130,
+        "Balls": 102,
+        "Fours": 8,
+        "Sixes": 6
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Moeen Ali",
+        "Runs": 2,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Chris Morris",
+        "Runs": 4,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Gurkeerat Singh Mann",
+        "Runs": 4,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Robin Uthappa",
+        "Runs": 14,
+        "Balls": 11,
+        "Fours": 0,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Ben Stokes",
+        "Runs": 36,
+        "Balls": 22,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Steven Smith (c)",
+        "Runs": 11,
+        "Balls": 15,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Sanju Samson †",
+        "Runs": 2,
+        "Balls": 8,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Jos Buttler",
+        "Runs": 70,
+        "Balls": 44,
+        "Fours": 8,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Riyan Parag",
+        "Runs": 1,
+        "Balls": 20,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Rahul Tewatia",
+        "Runs": 76,
+        "Balls": 64,
+        "Fours": 4,
+        "Sixes": 3
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Shreyas Gopal",
+        "Runs": 51,
+        "Balls": 53,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Jofra Archer",
+        "Runs": 18,
+        "Balls": 22,
+        "Fours": 0,
+        "Sixes": 1
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Kartik Tyagi",
+        "Runs": 4,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Varun Aaron",
+        "Runs": 0,
+        "Balls": 16,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Shubman Gill",
+        "Runs": 119,
+        "Balls": 82,
+        "Fours": 17,
+        "Sixes": 1
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Nitish Rana",
+        "Runs": 22,
+        "Balls": 19,
+        "Fours": 2,
+        "Sixes": 1
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Rahul Tripathi",
+        "Runs": 78,
+        "Balls": 68,
+        "Fours": 8,
+        "Sixes": 4
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Sunil Narine",
+        "Runs": 15,
+        "Balls": 18,
+        "Fours": 2,
+        "Sixes": 1
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Eoin Morgan (c)",
+        "Runs": 136,
+        "Balls": 70,
+        "Fours": 10,
+        "Sixes": 12
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Dinesh Karthik †",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Andre Russell",
+        "Runs": 74,
+        "Balls": 36,
+        "Fours": 2,
+        "Sixes": 9
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Pat Cummins",
+        "Runs": 42,
+        "Balls": 32,
+        "Fours": 1,
+        "Sixes": 2
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Kamlesh Nagarkoti",
+        "Runs": 10,
+        "Balls": 7,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Riyan Parag",
+        "Runs": 122,
+        "Balls": 116,
+        "Fours": 9,
+        "Sixes": 4
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Rahul Tewatia",
+        "Runs": 403,
+        "Balls": 285,
+        "Fours": 18,
+        "Sixes": 30
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Shreyas Gopal",
+        "Runs": 62,
+        "Balls": 65,
+        "Fours": 5,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Jofra Archer",
+        "Runs": 166,
+        "Balls": 96,
+        "Fours": 7,
+        "Sixes": 14
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Kartik Tyagi",
+        "Runs": 8,
+        "Balls": 12,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Varun Aaron",
+        "Runs": 2,
+        "Balls": 20,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Tom Banton",
+        "Runs": 36,
+        "Balls": 40,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Shubman Gill",
+        "Runs": 70,
+        "Balls": 62,
+        "Fours": 6,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Nitish Rana",
+        "Runs": 18,
+        "Balls": 30,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Eoin Morgan",
+        "Runs": 16,
+        "Balls": 24,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Dinesh Karthik (c)†",
+        "Runs": 2,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Andre Russell",
+        "Runs": 32,
+        "Balls": 20,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Rahul Tripathi",
+        "Runs": 34,
+        "Balls": 54,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Pat Cummins",
+        "Runs": 10,
+        "Balls": 40,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Kamlesh Nagarkoti",
+        "Runs": 8,
+        "Balls": 14,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Varun Chakravarthy",
+        "Runs": 14,
+        "Balls": 20,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Prasidh Krishna",
+        "Runs": 4,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Aaron Finch",
+        "Runs": 126,
+        "Balls": 116,
+        "Fours": 12,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Devdutt Padikkal",
+        "Runs": 114,
+        "Balls": 80,
+        "Fours": 14,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Virat Kohli (c)",
+        "Runs": 102,
+        "Balls": 90,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "AB de Villiers †",
+        "Runs": 146,
+        "Balls": 66,
+        "Fours": 10,
+        "Sixes": 12
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Tom Banton",
+        "Runs": 36,
+        "Balls": 40,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Murugan Ashwin",
+        "Runs": 4,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Ravi Bishnoi",
+        "Runs": 8,
+        "Balls": 17,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "David Warner (c)",
+        "Runs": 87,
+        "Balls": 60,
+        "Fours": 8,
+        "Sixes": 3
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Jonny Bairstow †",
+        "Runs": 116,
+        "Balls": 75,
+        "Fours": 11,
+        "Sixes": 6
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Manish Pandey",
+        "Runs": 16,
+        "Balls": 31,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Abdul Samad",
+        "Runs": 15,
+        "Balls": 12,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Vijay Shankar",
+        "Runs": 26,
+        "Balls": 27,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Jason Holder",
+        "Runs": 5,
+        "Balls": 8,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Priyam Garg",
+        "Runs": 3,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Rashid Khan",
+        "Runs": 0,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Sandeep Sharma",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "T Natarajan",
+        "Runs": 0,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Khaleel Ahmed",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "KL Rahul (c)†",
+        "Runs": 27,
+        "Balls": 27,
+        "Fours": 2,
+        "Sixes": 1
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Mandeep Singh",
+        "Runs": 23,
+        "Balls": 20,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Chris Gayle",
+        "Runs": 20,
+        "Balls": 20,
+        "Fours": 2,
+        "Sixes": 1
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Nicholas Pooran",
+        "Runs": 109,
+        "Balls": 65,
+        "Fours": 7,
+        "Sixes": 7
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Glenn Maxwell",
+        "Runs": 19,
+        "Balls": 25,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Deepak Hooda",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Chris Jordan",
+        "Runs": 7,
+        "Balls": 12,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Murugan Ashwin",
+        "Runs": 4,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Ravi Bishnoi",
+        "Runs": 6,
+        "Balls": 7,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Jonny Bairstow †",
+        "Runs": 462,
+        "Balls": 372,
+        "Fours": 43,
+        "Sixes": 15
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Vijay Shankar",
+        "Runs": 168,
+        "Balls": 164,
+        "Fours": 16,
+        "Sixes": 2
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "T Natarajan",
+        "Runs": 3,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Khaleel Ahmed",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "KL Rahul (c)†",
+        "Runs": 72,
+        "Balls": 60,
+        "Fours": 6,
+        "Sixes": 4
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Mayank Agarwal",
+        "Runs": 188,
+        "Balls": 138,
+        "Fours": 14,
+        "Sixes": 8
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Chris Gayle",
+        "Runs": 58,
+        "Balls": 26,
+        "Fours": 6,
+        "Sixes": 4
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Nicholas Pooran",
+        "Runs": 106,
+        "Balls": 62,
+        "Fours": 12,
+        "Sixes": 6
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Glenn Maxwell",
+        "Runs": 66,
+        "Balls": 56,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Deepak Hooda",
+        "Runs": 30,
+        "Balls": 44,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "James Neesham",
+        "Runs": 20,
+        "Balls": 16,
+        "Fours": 0,
+        "Sixes": 2
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Prithvi Shaw",
+        "Runs": 24,
+        "Balls": 40,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Shikhar Dhawan",
+        "Runs": 212,
+        "Balls": 126,
+        "Fours": 24,
+        "Sixes": 6
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Shreyas Iyer (c)",
+        "Runs": 106,
+        "Balls": 88,
+        "Fours": 0,
+        "Sixes": 8
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Rishabh Pant †",
+        "Runs": 90,
+        "Balls": 98,
+        "Fours": 10,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Marcus Stoinis",
+        "Runs": 124,
+        "Balls": 62,
+        "Fours": 14,
+        "Sixes": 6
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Shimron Hetmyer",
+        "Runs": 34,
+        "Balls": 38,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Kedar Jadhav",
+        "Runs": 95,
+        "Balls": 104,
+        "Fours": 10,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Ben Stokes",
+        "Runs": 38,
+        "Balls": 22,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Robin Uthappa",
+        "Runs": 13,
+        "Balls": 27,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Sanju Samson †",
+        "Runs": 74,
+        "Balls": 38,
+        "Fours": 1,
+        "Sixes": 9
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Steven Smith (c)",
+        "Runs": 121,
+        "Balls": 115,
+        "Fours": 8,
+        "Sixes": 4
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Jos Buttler",
+        "Runs": 140,
+        "Balls": 96,
+        "Fours": 14,
+        "Sixes": 4
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Sam Curran",
+        "Runs": 61,
+        "Balls": 56,
+        "Fours": 3,
+        "Sixes": 4
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Faf du Plessis",
+        "Runs": 92,
+        "Balls": 55,
+        "Fours": 3,
+        "Sixes": 7
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Shane Watson",
+        "Runs": 49,
+        "Balls": 27,
+        "Fours": 5,
+        "Sixes": 4
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Ambati Rayudu",
+        "Runs": 26,
+        "Balls": 38,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "MS Dhoni (c)†",
+        "Runs": 85,
+        "Balls": 73,
+        "Fours": 4,
+        "Sixes": 3
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Ravindra Jadeja",
+        "Runs": 71,
+        "Balls": 62,
+        "Fours": 8,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Kedar Jadhav",
+        "Runs": 30,
+        "Balls": 30,
+        "Fours": 3,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Prithvi Shaw",
+        "Runs": 128,
+        "Balls": 90,
+        "Fours": 18,
+        "Sixes": 2
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Shikhar Dhawan",
+        "Runs": 272,
+        "Balls": 170,
+        "Fours": 34,
+        "Sixes": 4
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Ajinkya Rahane",
+        "Runs": 16,
+        "Balls": 20,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Shreyas Iyer (c)",
+        "Runs": 98,
+        "Balls": 90,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Marcus Stoinis",
+        "Runs": 58,
+        "Balls": 34,
+        "Fours": 4,
+        "Sixes": 4
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Alex Carey †",
+        "Runs": 8,
+        "Balls": 14,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Axar Patel",
+        "Runs": 42,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 6
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Sam Curran",
+        "Runs": 2,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Faf du Plessis",
+        "Runs": 202,
+        "Balls": 164,
+        "Fours": 20,
+        "Sixes": 4
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Shane Watson",
+        "Runs": 100,
+        "Balls": 88,
+        "Fours": 14,
+        "Sixes": 2
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Ambati Rayudu",
+        "Runs": 90,
+        "Balls": 50,
+        "Fours": 2,
+        "Sixes": 8
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "MS Dhoni (c)†",
+        "Runs": 36,
+        "Balls": 34,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Ravindra Jadeja",
+        "Runs": 90,
+        "Balls": 44,
+        "Fours": 2,
+        "Sixes": 8
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Alex Carey †",
+        "Runs": 50,
+        "Balls": 45,
+        "Fours": 0,
+        "Sixes": 1
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Yashasvi Jaiswal",
+        "Runs": 68,
+        "Balls": 72,
+        "Fours": 2,
+        "Sixes": 4
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Jos Buttler †",
+        "Runs": 48,
+        "Balls": 25,
+        "Fours": 7,
+        "Sixes": 1
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Steven Smith (c)",
+        "Runs": 49,
+        "Balls": 38,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Sanju Samson",
+        "Runs": 35,
+        "Balls": 36,
+        "Fours": 0,
+        "Sixes": 2
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Mahipal Lomror",
+        "Runs": 2,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Rahul Tewatia",
+        "Runs": 90,
+        "Balls": 76,
+        "Fours": 7,
+        "Sixes": 4
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Andrew Tye",
+        "Runs": 12,
+        "Balls": 12,
+        "Fours": 0,
+        "Sixes": 2
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Jofra Archer",
+        "Runs": 5,
+        "Balls": 12,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Shreyas Gopal",
+        "Runs": 10,
+        "Balls": 10,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Kartik Tyagi",
+        "Runs": 4,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Varun Aaron",
+        "Runs": 2,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Prithvi Shaw",
+        "Runs": 38,
+        "Balls": 21,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Shikhar Dhawan",
+        "Runs": 67,
+        "Balls": 41,
+        "Fours": 8,
+        "Sixes": 2
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Shreyas Iyer (c)",
+        "Runs": 97,
+        "Balls": 79,
+        "Fours": 11,
+        "Sixes": 2
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Rishabh Pant †",
+        "Runs": 10,
+        "Balls": 18,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Marcus Stoinis",
+        "Runs": 96,
+        "Balls": 79,
+        "Fours": 1,
+        "Sixes": 8
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Shimron Hetmyer",
+        "Runs": 90,
+        "Balls": 48,
+        "Fours": 2,
+        "Sixes": 10
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Harshal Patel",
+        "Runs": 32,
+        "Balls": 30,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Axar Patel",
+        "Runs": 41,
+        "Balls": 20,
+        "Fours": 5,
+        "Sixes": 2
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Kagiso Rabada",
+        "Runs": 4,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Ravichandran Ashwin",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Yashasvi Jaiswal",
+        "Runs": 74,
+        "Balls": 80,
+        "Fours": 3,
+        "Sixes": 4
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Jos Buttler †",
+        "Runs": 207,
+        "Balls": 136,
+        "Fours": 19,
+        "Sixes": 11
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Sanju Samson",
+        "Runs": 247,
+        "Balls": 163,
+        "Fours": 14,
+        "Sixes": 16
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Mahipal Lomror",
+        "Runs": 107,
+        "Balls": 95,
+        "Fours": 3,
+        "Sixes": 6
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Andrew Tye",
+        "Runs": 12,
+        "Balls": 12,
+        "Fours": 0,
+        "Sixes": 2
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Ajinkya Rahane",
+        "Runs": 52,
+        "Balls": 38,
+        "Fours": 6,
+        "Sixes": 2
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Axar Patel",
+        "Runs": 12,
+        "Balls": 20,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Kagiso Rabada",
+        "Runs": 36,
+        "Balls": 28,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Ravichandran Ashwin",
+        "Runs": 14,
+        "Balls": 10,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Tushar Deshpande",
+        "Runs": 40,
+        "Balls": 18,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Anrich Nortje",
+        "Runs": 8,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Wriddhiman Saha †",
+        "Runs": 174,
+        "Balls": 90,
+        "Fours": 24,
+        "Sixes": 4
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Tushar Deshpande",
+        "Runs": 42,
+        "Balls": 24,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Ben Stokes",
+        "Runs": 65,
+        "Balls": 70,
+        "Fours": 5,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Jos Buttler †",
+        "Runs": 16,
+        "Balls": 13,
+        "Fours": 1,
+        "Sixes": 1
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Steven Smith (c)",
+        "Runs": 43,
+        "Balls": 36,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Sanju Samson",
+        "Runs": 26,
+        "Balls": 25,
+        "Fours": 3,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Robin Uthappa",
+        "Runs": 56,
+        "Balls": 41,
+        "Fours": 5,
+        "Sixes": 3
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Riyan Parag",
+        "Runs": 82,
+        "Balls": 50,
+        "Fours": 6,
+        "Sixes": 4
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Rahul Tewatia",
+        "Runs": 49,
+        "Balls": 34,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "David Warner (c)",
+        "Runs": 56,
+        "Balls": 46,
+        "Fours": 5,
+        "Sixes": 2
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Jonny Bairstow †",
+        "Runs": 36,
+        "Balls": 33,
+        "Fours": 2,
+        "Sixes": 3
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Manish Pandey",
+        "Runs": 220,
+        "Balls": 138,
+        "Fours": 10,
+        "Sixes": 19
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Kane Williamson",
+        "Runs": 22,
+        "Balls": 12,
+        "Fours": 0,
+        "Sixes": 2
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Priyam Garg",
+        "Runs": 15,
+        "Balls": 8,
+        "Fours": 1,
+        "Sixes": 1
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "David Warner (c)",
+        "Runs": 74,
+        "Balls": 84,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Jonny Bairstow †",
+        "Runs": 46,
+        "Balls": 54,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Manish Pandey",
+        "Runs": 66,
+        "Balls": 48,
+        "Fours": 12,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Kane Williamson",
+        "Runs": 132,
+        "Balls": 104,
+        "Fours": 16,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Priyam Garg",
+        "Runs": 134,
+        "Balls": 88,
+        "Fours": 14,
+        "Sixes": 2
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Vijay Shankar",
+        "Runs": 24,
+        "Balls": 14,
+        "Fours": 0,
+        "Sixes": 2
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Rashid Khan",
+        "Runs": 28,
+        "Balls": 16,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Shahbaz Nadeem",
+        "Runs": 10,
+        "Balls": 10,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Sandeep Sharma",
+        "Runs": 2,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "T Natarajan",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Sam Curran",
+        "Runs": 92,
+        "Balls": 52,
+        "Fours": 6,
+        "Sixes": 8
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Faf du Plessis",
+        "Runs": 44,
+        "Balls": 40,
+        "Fours": 8,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Shane Watson",
+        "Runs": 86,
+        "Balls": 88,
+        "Fours": 2,
+        "Sixes": 6
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Ambati Rayudu",
+        "Runs": 98,
+        "Balls": 86,
+        "Fours": 8,
+        "Sixes": 4
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "MS Dhoni (c)†",
+        "Runs": 136,
+        "Balls": 98,
+        "Fours": 12,
+        "Sixes": 4
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Ravindra Jadeja",
+        "Runs": 150,
+        "Balls": 90,
+        "Fours": 16,
+        "Sixes": 6
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Dwayne Bravo",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Deepak Chahar",
+        "Runs": 4,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Ajinkya Rahane",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Shikhar Dhawan",
+        "Runs": 38,
+        "Balls": 28,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Shreyas Iyer (c)",
+        "Runs": 182,
+        "Balls": 114,
+        "Fours": 17,
+        "Sixes": 6
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Rishabh Pant †",
+        "Runs": 92,
+        "Balls": 83,
+        "Fours": 9,
+        "Sixes": 3
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Shimron Hetmyer",
+        "Runs": 27,
+        "Balls": 15,
+        "Fours": 0,
+        "Sixes": 3
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Marcus Stoinis",
+        "Runs": 13,
+        "Balls": 15,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Axar Patel",
+        "Runs": 18,
+        "Balls": 14,
+        "Fours": 0,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Kagiso Rabada",
+        "Runs": 18,
+        "Balls": 20,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Ravichandran Ashwin",
+        "Runs": 28,
+        "Balls": 26,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Tushar Deshpande",
+        "Runs": 2,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Anrich Nortje",
+        "Runs": 0,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Shubman Gill",
+        "Runs": 46,
+        "Balls": 38,
+        "Fours": 6,
+        "Sixes": 1
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Nitish Rana",
+        "Runs": 220,
+        "Balls": 141,
+        "Fours": 30,
+        "Sixes": 6
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Rahul Tripathi",
+        "Runs": 62,
+        "Balls": 40,
+        "Fours": 5,
+        "Sixes": 3
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Dinesh Karthik †",
+        "Runs": 6,
+        "Balls": 12,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Sunil Narine",
+        "Runs": 131,
+        "Balls": 69,
+        "Fours": 12,
+        "Sixes": 8
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Eoin Morgan (c)",
+        "Runs": 34,
+        "Balls": 18,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Pat Cummins",
+        "Runs": 5,
+        "Balls": 4,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "KL Rahul (c)†",
+        "Runs": 188,
+        "Balls": 140,
+        "Fours": 16,
+        "Sixes": 6
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Mayank Agarwal",
+        "Runs": 72,
+        "Balls": 56,
+        "Fours": 8,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Chris Gayle",
+        "Runs": 48,
+        "Balls": 42,
+        "Fours": 2,
+        "Sixes": 4
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Nicholas Pooran",
+        "Runs": 136,
+        "Balls": 78,
+        "Fours": 10,
+        "Sixes": 8
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Glenn Maxwell",
+        "Runs": 22,
+        "Balls": 40,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Deepak Hooda",
+        "Runs": 46,
+        "Balls": 32,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Chris Jordan",
+        "Runs": 26,
+        "Balls": 16,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Rohit Sharma (c)",
+        "Runs": 158,
+        "Balls": 106,
+        "Fours": 20,
+        "Sixes": 6
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Quinton de Kock †",
+        "Runs": 106,
+        "Balls": 96,
+        "Fours": 6,
+        "Sixes": 6
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Suryakumar Yadav",
+        "Runs": 20,
+        "Balls": 22,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Ishan Kishan",
+        "Runs": 70,
+        "Balls": 78,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Krunal Pandya",
+        "Runs": 68,
+        "Balls": 60,
+        "Fours": 8,
+        "Sixes": 2
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Hardik Pandya",
+        "Runs": 76,
+        "Balls": 30,
+        "Fours": 6,
+        "Sixes": 6
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Kieron Pollard",
+        "Runs": 162,
+        "Balls": 64,
+        "Fours": 8,
+        "Sixes": 16
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Nathan Coulter-Nile",
+        "Runs": 48,
+        "Balls": 24,
+        "Fours": 8,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Kuldeep Yadav",
+        "Runs": 26,
+        "Balls": 42,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Gurkeerat Singh Mann",
+        "Runs": 42,
+        "Balls": 52,
+        "Fours": 8,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Dinesh Karthik †",
+        "Runs": 8,
+        "Balls": 28,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Eoin Morgan (c)",
+        "Runs": 60,
+        "Balls": 68,
+        "Fours": 6,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Kuldeep Yadav",
+        "Runs": 24,
+        "Balls": 38,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Lockie Ferguson",
+        "Runs": 38,
+        "Balls": 32,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Vijay Shankar",
+        "Runs": 104,
+        "Balls": 102,
+        "Fours": 12,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Sanju Samson †",
+        "Runs": 72,
+        "Balls": 52,
+        "Fours": 6,
+        "Sixes": 2
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Jos Buttler",
+        "Runs": 18,
+        "Balls": 24,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Jofra Archer",
+        "Runs": 32,
+        "Balls": 14,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Alex Carey †",
+        "Runs": 28,
+        "Balls": 18,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Jonny Bairstow †",
+        "Runs": 72,
+        "Balls": 56,
+        "Fours": 14,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Kane Williamson",
+        "Runs": 58,
+        "Balls": 38,
+        "Fours": 8,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Priyam Garg",
+        "Runs": 8,
+        "Balls": 14,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Vijay Shankar",
+        "Runs": 14,
+        "Balls": 20,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Abdul Samad",
+        "Runs": 46,
+        "Balls": 30,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Rashid Khan",
+        "Runs": 2,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Rahul Tripathi",
+        "Runs": 46,
+        "Balls": 32,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Andre Russell",
+        "Runs": 18,
+        "Balls": 22,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Eoin Morgan (c)",
+        "Runs": 68,
+        "Balls": 46,
+        "Fours": 6,
+        "Sixes": 2
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Dinesh Karthik †",
+        "Runs": 58,
+        "Balls": 28,
+        "Fours": 4,
+        "Sixes": 4
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Jos Buttler †",
+        "Runs": 8,
+        "Balls": 14,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Sanju Samson",
+        "Runs": 170,
+        "Balls": 84,
+        "Fours": 8,
+        "Sixes": 14
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Rahul Tewatia",
+        "Runs": 106,
+        "Balls": 62,
+        "Fours": 0,
+        "Sixes": 14
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Jofra Archer",
+        "Runs": 26,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 4
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Riyan Parag",
+        "Runs": 0,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Tom Curran",
+        "Runs": 8,
+        "Balls": 2,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Mayank Agarwal",
+        "Runs": 212,
+        "Balls": 100,
+        "Fours": 20,
+        "Sixes": 14
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Tom Curran",
+        "Runs": 87,
+        "Balls": 63,
+        "Fours": 6,
+        "Sixes": 3
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Sunil Narine",
+        "Runs": 18,
+        "Balls": 20,
+        "Fours": 0,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Dinesh Karthik (c)†",
+        "Runs": 60,
+        "Balls": 46,
+        "Fours": 10,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Eoin Morgan",
+        "Runs": 32,
+        "Balls": 40,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Nikhil Naik",
+        "Runs": 2,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Shivam Mavi",
+        "Runs": 18,
+        "Balls": 20,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Kuldeep Yadav",
+        "Runs": 2,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Saurabh Tiwary",
+        "Runs": 42,
+        "Balls": 26,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Kieron Pollard",
+        "Runs": 26,
+        "Balls": 14,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Krunal Pandya",
+        "Runs": 2,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Nikhil Naik",
+        "Runs": 2,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Shivam Mavi",
+        "Runs": 19,
+        "Balls": 24,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Rahul Chahar",
+        "Runs": 4,
+        "Balls": 8,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Trent Boult",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Jasprit Bumrah",
+        "Runs": 10,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Murali Vijay",
+        "Runs": 2,
+        "Balls": 14,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Shane Watson",
+        "Runs": 8,
+        "Balls": 10,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Rohit Sharma (c)",
+        "Runs": 24,
+        "Balls": 20,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Suryakumar Yadav",
+        "Runs": 34,
+        "Balls": 32,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Saurabh Tiwary",
+        "Runs": 84,
+        "Balls": 62,
+        "Fours": 6,
+        "Sixes": 2
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Hardik Pandya",
+        "Runs": 28,
+        "Balls": 20,
+        "Fours": 0,
+        "Sixes": 4
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Kieron Pollard",
+        "Runs": 36,
+        "Balls": 28,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Krunal Pandya",
+        "Runs": 6,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "James Pattinson",
+        "Runs": 22,
+        "Balls": 16,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Rahul Chahar",
+        "Runs": 4,
+        "Balls": 8,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Trent Boult",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Jasprit Bumrah",
+        "Runs": 10,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Murali Vijay",
+        "Runs": 43,
+        "Balls": 65,
+        "Fours": 5,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Rohit Sharma (c)",
+        "Runs": 16,
+        "Balls": 16,
+        "Fours": 0,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Kieron Pollard",
+        "Runs": 120,
+        "Balls": 48,
+        "Fours": 6,
+        "Sixes": 10
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Aaron Finch",
+        "Runs": 104,
+        "Balls": 70,
+        "Fours": 14,
+        "Sixes": 2
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Murali Vijay",
+        "Runs": 20,
+        "Balls": 30,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Ruturaj Gaikwad",
+        "Runs": 10,
+        "Balls": 20,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Kedar Jadhav",
+        "Runs": 52,
+        "Balls": 42,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Rishabh Pant †",
+        "Runs": 74,
+        "Balls": 50,
+        "Fours": 10,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Kedar Jadhav",
+        "Runs": 6,
+        "Balls": 20,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Abhishek Sharma",
+        "Runs": 62,
+        "Balls": 48,
+        "Fours": 8,
+        "Sixes": 2
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Abdul Samad",
+        "Runs": 16,
+        "Balls": 12,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Prithvi Shaw",
+        "Runs": 4,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Jonny Bairstow †",
+        "Runs": 106,
+        "Balls": 96,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Abhishek Sharma",
+        "Runs": 2,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Karun Nair",
+        "Runs": 2,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Sarfaraz Khan",
+        "Runs": 24,
+        "Balls": 24,
+        "Fours": 4,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Krishnappa Gowtham",
+        "Runs": 40,
+        "Balls": 28,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Chris Jordan",
+        "Runs": 10,
+        "Balls": 12,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Mohammed Shami",
+        "Runs": 0,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Axar Patel",
+        "Runs": 12,
+        "Balls": 18,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Ravichandran Ashwin",
+        "Runs": 8,
+        "Balls": 12,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Kagiso Rabada",
+        "Runs": 0,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Anrich Nortje",
+        "Runs": 6,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Karun Nair",
+        "Runs": 17,
+        "Balls": 20,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Sarfaraz Khan",
+        "Runs": 52,
+        "Balls": 49,
+        "Fours": 8,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Krishnappa Gowtham",
+        "Runs": 84,
+        "Balls": 54,
+        "Fours": 6,
+        "Sixes": 4
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Mohammed Shami",
+        "Runs": 4,
+        "Balls": 5,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Karun Nair",
+        "Runs": 0,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "James Neesham",
+        "Runs": 14,
+        "Balls": 14,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Sarfaraz Khan",
+        "Runs": 14,
+        "Balls": 16,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Krishnappa Gowtham",
+        "Runs": 44,
+        "Balls": 26,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Ravi Bishnoi",
+        "Runs": 2,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Mohammed Shami",
+        "Runs": 4,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Devdutt Padikkal",
+        "Runs": 161,
+        "Balls": 127,
+        "Fours": 14,
+        "Sixes": 2
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Aaron Finch",
+        "Runs": 30,
+        "Balls": 25,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Virat Kohli (c)",
+        "Runs": 187,
+        "Balls": 138,
+        "Fours": 15,
+        "Sixes": 6
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "AB de Villiers †",
+        "Runs": 79,
+        "Balls": 42,
+        "Fours": 3,
+        "Sixes": 6
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Jos Buttler †",
+        "Runs": 44,
+        "Balls": 24,
+        "Fours": 6,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Steven Smith (c)",
+        "Runs": 67,
+        "Balls": 46,
+        "Fours": 8,
+        "Sixes": 1
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Sanju Samson",
+        "Runs": 8,
+        "Balls": 6,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Robin Uthappa",
+        "Runs": 75,
+        "Balls": 66,
+        "Fours": 9,
+        "Sixes": 1
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Mahipal Lomror",
+        "Runs": 94,
+        "Balls": 78,
+        "Fours": 2,
+        "Sixes": 6
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Riyan Parag",
+        "Runs": 32,
+        "Balls": 36,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Rahul Tewatia",
+        "Runs": 67,
+        "Balls": 35,
+        "Fours": 1,
+        "Sixes": 7
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Jofra Archer",
+        "Runs": 34,
+        "Balls": 23,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Gurkeerat Singh Mann",
+        "Runs": 19,
+        "Balls": 17,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Ben Stokes",
+        "Runs": 15,
+        "Balls": 19,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Sanju Samson †",
+        "Runs": 9,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 1
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Jos Buttler",
+        "Runs": 24,
+        "Balls": 25,
+        "Fours": 1,
+        "Sixes": 1
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Andre Russell",
+        "Runs": 13,
+        "Balls": 8,
+        "Fours": 1,
+        "Sixes": 1
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Dinesh Karthik (c)†",
+        "Runs": 6,
+        "Balls": 8,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Eoin Morgan",
+        "Runs": 44,
+        "Balls": 18,
+        "Fours": 1,
+        "Sixes": 5
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Kamlesh Nagarkoti",
+        "Runs": 3,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Shivam Mavi",
+        "Runs": 1,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Prithvi Shaw",
+        "Runs": 66,
+        "Balls": 41,
+        "Fours": 4,
+        "Sixes": 4
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "David Miller",
+        "Runs": 0,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Murali Vijay",
+        "Runs": 21,
+        "Balls": 21,
+        "Fours": 3,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Ruturaj Gaikwad",
+        "Runs": 0,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Yashasvi Jaiswal",
+        "Runs": 6,
+        "Balls": 6,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "David Miller",
+        "Runs": 0,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Rahul Tewatia",
+        "Runs": 10,
+        "Balls": 8,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Riyan Parag",
+        "Runs": 6,
+        "Balls": 4,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Tom Curran",
+        "Runs": 10,
+        "Balls": 9,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Jofra Archer",
+        "Runs": 27,
+        "Balls": 8,
+        "Fours": 0,
+        "Sixes": 4
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Jonny Bairstow †",
+        "Runs": 25,
+        "Balls": 15,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Manish Pandey",
+        "Runs": 30,
+        "Balls": 19,
+        "Fours": 4,
+        "Sixes": 1
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Kane Williamson",
+        "Runs": 3,
+        "Balls": 5,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Priyam Garg",
+        "Runs": 8,
+        "Balls": 7,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Abhishek Sharma",
+        "Runs": 10,
+        "Balls": 13,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Abdul Samad",
+        "Runs": 20,
+        "Balls": 9,
+        "Fours": 1,
+        "Sixes": 2
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Rashid Khan",
+        "Runs": 3,
+        "Balls": 7,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Sandeep Sharma",
+        "Runs": 0,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Hardik Pandya",
+        "Runs": 28,
+        "Balls": 19,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Nicholas Pooran †",
+        "Runs": 33,
+        "Balls": 17,
+        "Fours": 1,
+        "Sixes": 3
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Shane Watson",
+        "Runs": 83,
+        "Balls": 53,
+        "Fours": 11,
+        "Sixes": 3
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "KL Rahul (c)",
+        "Runs": 63,
+        "Balls": 52,
+        "Fours": 7,
+        "Sixes": 1
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Nicholas Pooran †",
+        "Runs": 33,
+        "Balls": 17,
+        "Fours": 1,
+        "Sixes": 3
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Glenn Maxwell",
+        "Runs": 11,
+        "Balls": 7,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Sarfaraz Khan",
+        "Runs": 14,
+        "Balls": 9,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Josh Philippe †",
+        "Runs": 0,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "AB de Villiers",
+        "Runs": 28,
+        "Balls": 18,
+        "Fours": 4,
+        "Sixes": 1
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Umesh Yadav",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Navdeep Saini",
+        "Runs": 6,
+        "Balls": 7,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Dale Steyn",
+        "Runs": 1,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Yuzvendra Chahal",
+        "Runs": 1,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Glenn Maxwell",
+        "Runs": 5,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Karun Nair",
+        "Runs": 15,
+        "Balls": 8,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Josh Philippe †",
+        "Runs": 1,
+        "Balls": 5,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "AB de Villiers",
+        "Runs": 79,
+        "Balls": 48,
+        "Fours": 8,
+        "Sixes": 3
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Umesh Yadav",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Dale Steyn",
+        "Runs": 1,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Yuzvendra Chahal",
+        "Runs": 1,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Jos Buttler †",
+        "Runs": 21,
+        "Balls": 16,
+        "Fours": 1,
+        "Sixes": 2
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Sanju Samson",
+        "Runs": 8,
+        "Balls": 9,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Tom Curran",
+        "Runs": 54,
+        "Balls": 36,
+        "Fours": 2,
+        "Sixes": 3
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Jaydev Unadkat",
+        "Runs": 9,
+        "Balls": 13,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Ankit Rajpoot",
+        "Runs": 7,
+        "Balls": 5,
+        "Fours": 0,
+        "Sixes": 1
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Dinesh Karthik (c)†",
+        "Runs": 1,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Eoin Morgan",
+        "Runs": 34,
+        "Balls": 23,
+        "Fours": 1,
+        "Sixes": 2
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Jaydev Unadkat",
+        "Runs": 9,
+        "Balls": 13,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Ankit Rajpoot",
+        "Runs": 9,
+        "Balls": 10,
+        "Fours": 0,
+        "Sixes": 1
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Ben Stokes",
+        "Runs": 41,
+        "Balls": 35,
+        "Fours": 6,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Robin Uthappa",
+        "Runs": 32,
+        "Balls": 27,
+        "Fours": 3,
+        "Sixes": 1
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Riyan Parag",
+        "Runs": 1,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Ajinkya Rahane",
+        "Runs": 2,
+        "Balls": 9,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Alex Carey †",
+        "Runs": 14,
+        "Balls": 13,
+        "Fours": 0,
+        "Sixes": 1
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Jonny Bairstow †",
+        "Runs": 61,
+        "Balls": 43,
+        "Fours": 6,
+        "Sixes": 2
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Vijay Shankar",
+        "Runs": 0,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Rashid Khan",
+        "Runs": 6,
+        "Balls": 5,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Bhuvneshwar Kumar",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Sandeep Sharma",
+        "Runs": 9,
+        "Balls": 6,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Mitchell Marsh",
+        "Runs": 0,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "T Natarajan",
+        "Runs": 3,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "AB de Villiers",
+        "Runs": 51,
+        "Balls": 30,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Josh Philippe †",
+        "Runs": 1,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Bhuvneshwar Kumar",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Mitchell Marsh",
+        "Runs": 0,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Faf du Plessis",
+        "Runs": 17,
+        "Balls": 10,
+        "Fours": 3,
+        "Sixes": 0
+    },
+    {
+        "Team": "Kolkata Knight Riders",
+        "Batsman": "Kedar Jadhav",
+        "Runs": 7,
+        "Balls": 12,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Eoin Morgan",
+        "Runs": 7,
+        "Balls": 10,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Andre Russell",
+        "Runs": 2,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Dinesh Karthik (c)†",
+        "Runs": 12,
+        "Balls": 11,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Pat Cummins",
+        "Runs": 17,
+        "Balls": 9,
+        "Fours": 1,
+        "Sixes": 1
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Kamlesh Nagarkoti",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Shivam Mavi",
+        "Runs": 0,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Chennai Super Kings",
+        "Batsman": "Varun Chakravarthy",
+        "Runs": 1,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Yashasvi Jaiswal",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Jos Buttler †",
+        "Runs": 70,
+        "Balls": 44,
+        "Fours": 4,
+        "Sixes": 5
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Sanju Samson",
+        "Runs": 0,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Mahipal Lomror",
+        "Runs": 11,
+        "Balls": 13,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Tom Curran",
+        "Runs": 15,
+        "Balls": 16,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Rahul Tewatia",
+        "Runs": 5,
+        "Balls": 6,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Jofra Archer",
+        "Runs": 24,
+        "Balls": 11,
+        "Fours": 3,
+        "Sixes": 1
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Shreyas Gopal",
+        "Runs": 1,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Ankit Rajpoot",
+        "Runs": 2,
+        "Balls": 5,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Mumbai Indians",
+        "Batsman": "Kartik Tyagi",
+        "Runs": 0,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Rajasthan Royals",
+        "Batsman": "Rohit Sharma (c)",
+        "Runs": 35,
+        "Balls": 23,
+        "Fours": 2,
+        "Sixes": 3
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "KL Rahul (c)",
+        "Runs": 11,
+        "Balls": 16,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Mayank Agarwal",
+        "Runs": 9,
+        "Balls": 6,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Prabhsimran Singh †",
+        "Runs": 11,
+        "Balls": 8,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Mujeeb Ur Rahman",
+        "Runs": 1,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Mohammed Shami",
+        "Runs": 0,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Sheldon Cottrell",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Sunrisers Hyderabad",
+        "Batsman": "Arshdeep Singh",
+        "Runs": 0,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Kane Williamson",
+        "Runs": 20,
+        "Balls": 10,
+        "Fours": 1,
+        "Sixes": 1
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Abhishek Sharma",
+        "Runs": 12,
+        "Balls": 6,
+        "Fours": 1,
+        "Sixes": 1
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Mujeeb Ur Rahman",
+        "Runs": 1,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Sheldon Cottrell",
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Punjab Kings",
+        "Batsman": "Arshdeep Singh",
+        "Runs": 0,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Aaron Finch",
+        "Runs": 13,
+        "Balls": 14,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Moeen Ali",
+        "Runs": 11,
+        "Balls": 13,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Navdeep Saini",
+        "Runs": 12,
+        "Balls": 12,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Mohammed Siraj",
+        "Runs": 5,
+        "Balls": 4,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Team": "Delhi Capitals",
+        "Batsman": "Yuzvendra Chahal",
+        "Runs": 0,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Team": "Royal Challengers Bangalore",
+        "Batsman": "Shimron Hetmyer",
+        "Runs": 11,
+        "Balls": 7,
+        "Fours": 0,
+        "Sixes": 1
+    }
+]
